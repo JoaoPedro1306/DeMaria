@@ -7,4 +7,5 @@ C:\Projetos\DeMaria\DeMaria\DeMaria\obj\Debug\DeMaria.csproj.GenerateResource.ca
 C:\Projetos\DeMaria\DeMaria\DeMaria\obj\Debug\DeMaria.csproj.CoreCompileInputs.cache
 C:\Projetos\DeMaria\DeMaria\DeMaria\obj\Debug\DeMaria.exe
 C:\Projetos\DeMaria\DeMaria\DeMaria\obj\Debug\DeMaria.pdb
-C:\Projetos\DeMaria\DeMaria\DeMaria\obj\Debug\DeMaria.Form1.resources
+C:\Projetos\DeMaria\DeMaria\DeMaria\obj\Debug\DeMaria.Login.resources
+C:\Projetos\DeMaria\DeMaria\DeMaria\obj\Debug\DeMaria.Form2.resources

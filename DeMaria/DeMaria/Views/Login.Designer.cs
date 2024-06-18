@@ -1,5 +1,5 @@
 ﻿namespace DeMaria {
-    partial class Form1 {
+    partial class Login {
         /// <summary>
         /// Required designer variable.
         /// </summary>
@@ -75,9 +75,9 @@
             // button1
             // 
             this.button1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.button1.Location = new System.Drawing.Point(188, 168);
+            this.button1.Location = new System.Drawing.Point(207, 168);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(131, 27);
+            this.button1.Size = new System.Drawing.Size(115, 27);
             this.button1.TabIndex = 4;
             this.button1.Text = "Entrar";
             this.button1.UseVisualStyleBackColor = true;
@@ -104,13 +104,13 @@
             this.label3.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(61, 29);
+            this.label3.Location = new System.Drawing.Point(41, 19);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(371, 55);
+            this.label3.Size = new System.Drawing.Size(407, 55);
             this.label3.TabIndex = 5;
-            this.label3.Text = "Seja bem-vindo!";
+            this.label3.Text = "Mercado DeMaria";
             // 
-            // Form1
+            // Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -118,7 +118,7 @@
             this.ClientSize = new System.Drawing.Size(545, 283);
             this.Controls.Add(this.panel1);
             this.MinimumSize = new System.Drawing.Size(561, 322);
-            this.Name = "Form1";
+            this.Name = "Login";
             this.Text = "Form1";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.panel1.ResumeLayout(false);
