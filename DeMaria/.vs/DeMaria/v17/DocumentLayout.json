@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|c:\\projetos\\demaria\\demaria\\demaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|c:\\projetos\\demaria\\demaria\\demaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Form1.cs",
+              "RelativeDocumentMoniker": "DeMaria\\Form1.cs",
+              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Form1.cs",
+              "RelativeToolTip": "DeMaria\\Form1.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAtwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T04:56:07.728Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,

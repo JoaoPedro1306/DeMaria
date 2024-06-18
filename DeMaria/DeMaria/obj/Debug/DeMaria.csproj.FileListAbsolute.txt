@@ -1,0 +1,10 @@
+C:\Projetos\DeMaria\DeMaria\DeMaria\bin\Debug\DeMaria.exe.config
+C:\Projetos\DeMaria\DeMaria\DeMaria\bin\Debug\DeMaria.exe
+C:\Projetos\DeMaria\DeMaria\DeMaria\bin\Debug\DeMaria.pdb
+C:\Projetos\DeMaria\DeMaria\DeMaria\obj\Debug\DeMaria.csproj.AssemblyReference.cache
+C:\Projetos\DeMaria\DeMaria\DeMaria\obj\Debug\DeMaria.Properties.Resources.resources
+C:\Projetos\DeMaria\DeMaria\DeMaria\obj\Debug\DeMaria.csproj.GenerateResource.cache
+C:\Projetos\DeMaria\DeMaria\DeMaria\obj\Debug\DeMaria.csproj.CoreCompileInputs.cache
+C:\Projetos\DeMaria\DeMaria\DeMaria\obj\Debug\DeMaria.exe
+C:\Projetos\DeMaria\DeMaria\DeMaria\obj\Debug\DeMaria.pdb
+C:\Projetos\DeMaria\DeMaria\DeMaria\obj\Debug\DeMaria.Form1.resources
