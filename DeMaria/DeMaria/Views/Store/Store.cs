@@ -13,5 +13,9 @@ namespace DeMaria.Views.Store {
         public Store() {
             InitializeComponent();
         }
+
+        private void Store_Load(object sender, EventArgs e) {
+
+        }
     }
 }

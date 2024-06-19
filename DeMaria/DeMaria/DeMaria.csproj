@@ -96,23 +96,11 @@
     <Compile Include="Views\Report\ReportForm.Designer.cs">
       <DependentUpon>ReportForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Views\Store\ShoppingCart.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Views\Store\ShoppingCart.Designer.cs">
-      <DependentUpon>ShoppingCart.cs</DependentUpon>
-    </Compile>
     <Compile Include="Views\Store\Store.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Views\Store\Store.Designer.cs">
       <DependentUpon>Store.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Views\Store\StoreForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Views\Store\StoreForm.Designer.cs">
-      <DependentUpon>StoreForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Views\User\ChangePassword.cs">
       <SubType>Form</SubType>
@@ -153,6 +141,24 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Views\Product\Product.resx">
+      <DependentUpon>Product.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Product\ProductForm.resx">
+      <DependentUpon>ProductForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Store\Store.resx">
+      <DependentUpon>Store.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\User\ChangePassword.resx">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\User\User.resx">
+      <DependentUpon>User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\User\UserForm.resx">
+      <DependentUpon>UserForm.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
