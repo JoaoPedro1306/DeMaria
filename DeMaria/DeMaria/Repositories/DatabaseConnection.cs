@@ -8,9 +8,9 @@ using Npgsql;
 
 namespace DeMaria.Repositories
 {
-    public class DatabaseConnection
+    public class DatabaseConnection : IDisposable
     {
-        private string connectionString = "";
+        private string connectionString = "Host=localhost;Username=postgres;Password=admin;Database=DB_DEMARIA;Port=5432";
         private NpgsqlConnection connection;
 
         public NpgsqlConnection Connection

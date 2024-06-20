@@ -50,3 +50,5 @@ C:\Projetos\DeMaria\DeMaria\DeMaria\obj\Debug\DeMaria.csproj.CoreCompileInputs.c
 C:\Projetos\DeMaria\DeMaria\DeMaria\obj\Debug\DeMaria.csproj.Up2Date
 C:\Projetos\DeMaria\DeMaria\DeMaria\obj\Debug\DeMaria.exe
 C:\Projetos\DeMaria\DeMaria\DeMaria\obj\Debug\DeMaria.pdb
+C:\Projetos\DeMaria\DeMaria\DeMaria\bin\Debug\Dapper.dll
+C:\Projetos\DeMaria\DeMaria\DeMaria\bin\Debug\Dapper.xml
