@@ -8,6 +8,21 @@ namespace DeMaria.Models
 {
     public class User
     {
+        public User(string name, string email, string password, int creator)
+        {
+            USR_NAME = name;
+            USR_EMAIL = email;
+            USR_PASSWORD = password;
+            CREATED_BY = creator;
+        }
+
+        public User(int id, string name, string email)
+        {
+            USR_ID = id;
+            USR_NAME = name;
+            USR_EMAIL = email;
+        }
+
         public int USR_ID { get; set; }
         public string USR_NAME { get; set; }
         public string USR_EMAIL { get; set; }

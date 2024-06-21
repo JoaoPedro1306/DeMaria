@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DeMaria.Models
 {
-    public class Sales
+    class Sales
     {
         public int SLS_ID { get; set; }
         public int CST_ID { get; set; }

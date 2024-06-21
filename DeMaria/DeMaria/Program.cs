@@ -1,4 +1,5 @@
-﻿using DeMaria.Repositories;
+﻿using DeMaria.Models;
+using DeMaria.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,6 +15,10 @@ namespace DeMaria {
         static void Main() {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            UserRepository teste = new UserRepository();
+            List <User>users  = new List<User>();
+            users = teste.Select(0, "", "", 1);
+            Console.WriteLine(users.Count);
             Application.Run(new Login());
         }
     }
