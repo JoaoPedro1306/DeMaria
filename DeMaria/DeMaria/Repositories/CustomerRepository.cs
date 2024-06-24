@@ -11,14 +11,21 @@ namespace DeMaria.Repositories
 {
     public class CustomerRepository
     {
-        public List<CustomerModel> Select(int pCustomerID = 0)
+        public List<CustomerModel> Select(CustomerModel pCustomer = null, int pOption = 0)
         {
             List<CustomerModel> customers = new List<CustomerModel>();
             string query = "SELECT CST_ID, CST_NAME, CST_CPF, CST_EMAIL, CST_PHONE,ADR_ZIP_CODE, ADR_STREET, ADR_NUMBER, ADR_COMPLEMENT, ADR_CITY, ADR_STATE " +
                             "FROM TBL_CUSTOMER INNER JOIN TBL_ADDRESS ON CST_ID = ADR_ID " +
-                            "WHERE CST_DELETE IS NULL"; 
+                            "WHERE CST_DELETE IS NULL";
+            
+            switch (pOption)
+            {
+                case 1: query += " AND CST_ID = @P_CST_ID";
+                    break;
+                case 2: query += " AND CST_CPF = @P_CST_CPF";
+                    break;
+            }
 
-            query = pCustomerID == 0 ? query : query += " AND CST_ID = @P_CST_ID;";
             using (var dbConnection = new DatabaseConnection())
             {
                 var connection = dbConnection.Connection;
@@ -30,7 +37,16 @@ namespace DeMaria.Repositories
                     {
                         using (var cmd = new NpgsqlCommand(query, connection))
                         {
-                            cmd.Parameters.AddWithValue("P_CST_ID", pCustomerID);
+                            switch (pOption)
+                            {
+                                case 1:
+                                    cmd.Parameters.AddWithValue("P_CST_ID", NpgsqlTypes.NpgsqlDbType.Integer, pCustomer.CST_ID);
+                                    break;
+                                case 2:
+                                    cmd.Parameters.AddWithValue("P_CST_CPF", NpgsqlTypes.NpgsqlDbType.Varchar, pCustomer.CST_CPF);
+                                    break;
+                            }
+                            
                             using (var reader = cmd.ExecuteReader())
                             {
                                 while (reader.Read())

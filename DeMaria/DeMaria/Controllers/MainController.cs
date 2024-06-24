@@ -14,6 +14,7 @@ namespace DeMaria.Controllers
         private UserController UserController;
         private ProductController ProductController;
         private CustomerController CustomerController;
+        private StoreController StoreController;
         private MainForm MainForm;
 
         private int UserID;
@@ -26,7 +27,8 @@ namespace DeMaria.Controllers
             MainForm.ProductButtonClicked += OnProductButtonClicked;
             MainForm.CustomerButtonClicked += OnCustomerButtonClicked;
             MainForm.ChangePasswordButtonClicked += OnChangePasswordButtonClicked;
-
+            MainForm.StoreButtonClicked += OnStoreButtonClicked;
+            
             MainForm.FormClosed += OnFormClosed;
 
             UserID = userID;
@@ -65,6 +67,12 @@ namespace DeMaria.Controllers
         {
             UserController = new UserController(UserID, true);
             UserController.ShowChangePassword();
+        }
+
+        private void OnStoreButtonClicked(object sender, EventArgs e)
+        {
+            StoreController = new StoreController(UserID);
+            StoreController.ShowStore();
         }
 
         private void OnFormClosed(object sender, FormClosedEventArgs e)

@@ -21,6 +21,12 @@ namespace DeMaria.Controllers
 
         private int UserLoggedID;
         private List<ProductModel> Products;
+        
+        public ProductController()
+        {
+
+        }
+
         public ProductController(int userLoggedID)
         {
             Product = new Product(userLoggedID);
@@ -39,6 +45,12 @@ namespace DeMaria.Controllers
         public void ShowProduct()
         {
             Product.Show();
+        }
+
+        public List<ProductModel> LoadAllProducts()
+        {
+            Repository = new ProductRepository();
+            return Repository.Select(0, 1);
         }
 
         private void OnPageLoad(object sender, EventArgs e)

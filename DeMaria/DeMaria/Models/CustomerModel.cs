@@ -12,6 +12,16 @@ namespace DeMaria.Models
 {
     public class CustomerModel
     {
+        public CustomerModel(int id)
+        {
+            CST_ID = id;
+        }
+
+        public CustomerModel(string cpf)
+        {
+            CST_CPF = cpf;
+        }
+
         public CustomerModel(int id, string name, string cpf, string email, string phone, string zipCode, string street, int number, string complement, string city, string state)
         {
             CST_ID = id;

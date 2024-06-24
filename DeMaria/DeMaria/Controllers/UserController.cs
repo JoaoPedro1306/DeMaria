@@ -170,11 +170,6 @@ namespace DeMaria.Controllers
                 MessageBox.Show("Por favor, preencha todos os campos!");
                 return;
             }
-            //if (e.User.USR_PASSWORD.Length < 4)
-            //{
-            //    MessageBox.Show("Por favor, digite no mínimo 4 caractéres!");
-            //    return;
-            //}
 
             Repository = new UserRepository();
             Users = Repository.Select(e.User.USR_ID, "", e.User.USR_PASSWORD, 4);

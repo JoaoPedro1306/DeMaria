@@ -16,7 +16,7 @@ namespace DeMaria.Views.Customer {
         public event EventHandler ConsultButtonClicked;
         public event EventHandler DeleteButtonClicked;
         public event EventHandler<CustomerEventArgs> CustomerSelected;
-        public Customer(int userLoggedID)
+        public Customer()
         {
             InitializeComponent();
             this.FormClosed += OnFormClosed;

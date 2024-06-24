@@ -17,6 +17,7 @@ namespace DeMaria
         public event EventHandler ChangePasswordButtonClicked;
         public event EventHandler ProductButtonClicked;
         public event EventHandler CustomerButtonClicked;
+        public event EventHandler StoreButtonClicked;
         public MainForm()
         {
             InitializeComponent();
@@ -53,14 +54,14 @@ namespace DeMaria
 
         }
 
-        //private void CostumerButton_Click(object sender, EventArgs e)
-        //{
-        //    CustomerButtonClicked?.Invoke(this, EventArgs.Empty);
-        //}
-
         private void CustomerButton_Click(object sender, EventArgs e)
         {
             CustomerButtonClicked?.Invoke(this, EventArgs.Empty);
+        }
+
+        private void StoreButton_Click(object sender, EventArgs e)
+        {
+            StoreButtonClicked?.Invoke(this, EventArgs.Empty);
         }
     }
 }

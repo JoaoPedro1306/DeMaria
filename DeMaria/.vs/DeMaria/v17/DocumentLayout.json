@@ -3,72 +3,135 @@
   "WorkspaceRootPath": "C:\\Projetos\\DeMaria\\DeMaria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|c:\\projetos\\demaria\\demaria\\demaria\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|c:\\projetos\\demaria\\demaria\\demaria\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\repositories\\storerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\repositories\\storerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|c:\\projetos\\demaria\\demaria\\demaria\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\models\\productsalemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\models\\productsalemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|c:\\projetos\\demaria\\demaria\\demaria\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\views\\customer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\views\\customer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\views\\store\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\views\\store\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\models\\saleeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\models\\saleeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\models\\salesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\models\\salesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\views\\customer\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\views\\customer\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\models\\customereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\models\\customereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|c:\\projetos\\demaria\\demaria\\demaria\\models\\usereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\models\\usereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|c:\\projetos\\demaria\\demaria\\demaria\\views\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\views\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|c:\\projetos\\demaria\\demaria\\demaria\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|c:\\projetos\\demaria\\demaria\\demaria\\views\\customer\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\views\\customer\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|c:\\projetos\\demaria\\demaria\\demaria\\views\\customer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\views\\customer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|c:\\projetos\\demaria\\demaria\\demaria\\views\\customer\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\views\\customer\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|c:\\projetos\\demaria\\demaria\\demaria\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|c:\\projetos\\demaria\\demaria\\demaria\\views\\product\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\views\\product\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|c:\\projetos\\demaria\\demaria\\demaria\\models\\productsalemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\models\\productsalemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|c:\\projetos\\demaria\\demaria\\demaria\\models\\producteventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\models\\producteventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\models\\producteventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|c:\\projetos\\demaria\\demaria\\demaria\\models\\customereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\models\\customereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\models\\addressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\models\\addressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\views\\product\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\views\\product\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\views\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\views\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\views\\product\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\views\\product\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\views\\user\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\views\\user\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\views\\store\\store.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\views\\store\\store.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\views\\store\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\views\\store\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|c:\\projetos\\demaria\\demaria\\demaria\\views\\customer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\views\\customer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\views\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\views\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|c:\\projetos\\demaria\\demaria\\demaria\\services\\viacep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\services\\viacep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|c:\\projetos\\demaria\\demaria\\demaria\\models\\addressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\models\\addressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\views\\customer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\views\\customer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jo\u00E3o Pedro\\AppData\\Local\\Temp\\.vsdbgsrc\\b4ec7b032359dfaef3e3e2222c0603033513d4fb3bed6344502c5d05295c6bd8\\MainController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\views\\customer\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\views\\customer\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\views\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -81,57 +144,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\views\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\views\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\views\\user\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\views\\user\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|c:\\projetos\\demaria\\demaria\\demaria\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jo\u00E3o Pedro\\AppData\\Local\\Temp\\.vsdbgsrc\\b4ec7b032359dfaef3e3e2222c0603033513d4fb3bed6344502c5d05295c6bd8\\MainController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|c:\\projetos\\demaria\\demaria\\demaria\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\views\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\views\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\models\\usereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\models\\usereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|c:\\projetos\\demaria\\demaria\\demaria\\models\\salesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\models\\salesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|c:\\projetos\\demaria\\demaria\\demaria\\views\\product\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\views\\product\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|C:\\Projetos\\DeMaria\\DeMaria\\demaria\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FD1BDA5-25ED-45D0-A740-E95A61F9E6E5}|DeMaria\\DeMaria.csproj|solutionrelative:demaria\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -141,61 +153,109 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\MainForm.cs",
-              "RelativeDocumentMoniker": "DeMaria\\Views\\MainForm.cs",
-              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\MainForm.cs [Design]",
-              "RelativeToolTip": "DeMaria\\Views\\MainForm.cs [Design]",
+              "DocumentIndex": 7,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Store\\Store.cs",
+              "RelativeDocumentMoniker": "DeMaria\\Views\\Store\\Store.cs",
+              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Store\\Store.cs",
+              "RelativeToolTip": "DeMaria\\Views\\Store\\Store.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAA3wMQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T04:12:53.207Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-23T06:03:48.055Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "DeMaria\\Controllers\\StoreController.cs",
+              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "DeMaria\\Controllers\\StoreController.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAwwIkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:49:03.138Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoreRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Repositories\\StoreRepository.cs",
+              "RelativeDocumentMoniker": "DeMaria\\Repositories\\StoreRepository.cs",
+              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Repositories\\StoreRepository.cs",
+              "RelativeToolTip": "DeMaria\\Repositories\\StoreRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwDgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:27:02.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SalesModel.cs",
+              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\SalesModel.cs",
+              "RelativeDocumentMoniker": "DeMaria\\Models\\SalesModel.cs",
+              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\SalesModel.cs",
+              "RelativeToolTip": "DeMaria\\Models\\SalesModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:41:47.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SaleEventArgs.cs",
+              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\SaleEventArgs.cs",
+              "RelativeDocumentMoniker": "DeMaria\\Models\\SaleEventArgs.cs",
+              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\SaleEventArgs.cs",
+              "RelativeToolTip": "DeMaria\\Models\\SaleEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:39:15.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Store.cs [Design]",
+              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Store\\Store.cs",
+              "RelativeDocumentMoniker": "DeMaria\\Views\\Store\\Store.cs",
+              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Store\\Store.cs [Design]",
+              "RelativeToolTip": "DeMaria\\Views\\Store\\Store.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:54:38.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "MainController.cs",
               "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Controllers\\MainController.cs",
               "RelativeDocumentMoniker": "DeMaria\\Controllers\\MainController.cs",
               "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Controllers\\MainController.cs",
               "RelativeToolTip": "DeMaria\\Controllers\\MainController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAADkAAAAsAAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAApwEcAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T04:27:48.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T04:27:48.789Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CustomerForm.cs [Design]",
-              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Customer\\CustomerForm.cs",
-              "RelativeDocumentMoniker": "DeMaria\\Views\\Customer\\CustomerForm.cs",
-              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Customer\\CustomerForm.cs [Design]",
-              "RelativeToolTip": "DeMaria\\Views\\Customer\\CustomerForm.cs [Design]",
+              "DocumentIndex": 24,
+              "Title": "Store.Designer.cs",
+              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Store\\Store.Designer.cs",
+              "RelativeDocumentMoniker": "DeMaria\\Views\\Store\\Store.Designer.cs",
+              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Store\\Store.Designer.cs",
+              "RelativeToolTip": "DeMaria\\Views\\Store\\Store.Designer.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAMwCkAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T00:20:57.049Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-23T06:33:29.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CustomerForm.cs",
-              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Customer\\CustomerForm.cs",
-              "RelativeDocumentMoniker": "DeMaria\\Views\\Customer\\CustomerForm.cs",
-              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Customer\\CustomerForm.cs",
-              "RelativeToolTip": "DeMaria\\Views\\Customer\\CustomerForm.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAYwEUAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T00:21:03.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "AddressModel.cs",
               "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\AddressModel.cs",
               "RelativeDocumentMoniker": "DeMaria\\Models\\AddressModel.cs",
@@ -203,150 +263,31 @@
               "RelativeToolTip": "DeMaria\\Models\\AddressModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T03:19:45.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T03:19:45.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductSaleModel.cs",
-              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\ProductSaleModel.cs",
-              "RelativeDocumentMoniker": "DeMaria\\Models\\ProductSaleModel.cs",
-              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\ProductSaleModel.cs",
-              "RelativeToolTip": "DeMaria\\Models\\ProductSaleModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T02:25:58.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CustomerEventArgs.cs",
-              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\CustomerEventArgs.cs",
-              "RelativeDocumentMoniker": "DeMaria\\Models\\CustomerEventArgs.cs",
-              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\CustomerEventArgs.cs",
-              "RelativeToolTip": "DeMaria\\Models\\CustomerEventArgs.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T23:35:13.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Customer.cs [Design]",
-              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Customer\\Customer.cs",
-              "RelativeDocumentMoniker": "DeMaria\\Views\\Customer\\Customer.cs",
-              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Customer\\Customer.cs [Design]",
-              "RelativeToolTip": "DeMaria\\Views\\Customer\\Customer.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T23:36:51.457Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\MainForm.cs",
               "RelativeDocumentMoniker": "DeMaria\\Views\\MainForm.cs",
               "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\MainForm.cs",
               "RelativeToolTip": "DeMaria\\Views\\MainForm.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAAwD4AAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T04:19:31.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T04:19:31.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "DeMaria\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "DeMaria\\Controllers\\CustomerController.cs",
-              "ViewState": "AQIAAIkAAAAAAAAAAAAnwJMAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T23:23:54.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Customer\\Customer.cs",
-              "RelativeDocumentMoniker": "DeMaria\\Views\\Customer\\Customer.cs",
-              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Customer\\Customer.cs",
-              "RelativeToolTip": "DeMaria\\Views\\Customer\\Customer.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAwwBEAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T23:37:29.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ViaCEP.cs",
-              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Services\\ViaCEP.cs",
-              "RelativeDocumentMoniker": "DeMaria\\Services\\ViaCEP.cs",
-              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Services\\ViaCEP.cs",
-              "RelativeToolTip": "DeMaria\\Services\\ViaCEP.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T03:12:48.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "SalesModel.cs",
-              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\SalesModel.cs",
-              "RelativeDocumentMoniker": "DeMaria\\Models\\SalesModel.cs",
-              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\SalesModel.cs",
-              "RelativeToolTip": "DeMaria\\Models\\SalesModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T02:26:00.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Repositories\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "DeMaria\\Repositories\\CustomerRepository.cs",
-              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Repositories\\CustomerRepository.cs",
-              "RelativeToolTip": "DeMaria\\Repositories\\CustomerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T01:20:52.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "DeMaria\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "DeMaria\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T02:28:48.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "MainController.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o Pedro\\AppData\\Local\\Temp\\.vsdbgsrc\\b4ec7b032359dfaef3e3e2222c0603033513d4fb3bed6344502c5d05295c6bd8\\MainController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\Jo\u00E3o Pedro\\AppData\\Local\\Temp\\.vsdbgsrc\\b4ec7b032359dfaef3e3e2222c0603033513d4fb3bed6344502c5d05295c6bd8\\MainController.cs",
-              "ToolTip": "C:\\Users\\Jo\u00E3o Pedro\\AppData\\Local\\Temp\\.vsdbgsrc\\b4ec7b032359dfaef3e3e2222c0603033513d4fb3bed6344502c5d05295c6bd8\\MainController.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\Users\\Jo\u00E3o Pedro\\AppData\\Local\\Temp\\.vsdbgsrc\\b4ec7b032359dfaef3e3e2222c0603033513d4fb3bed6344502c5d05295c6bd8\\MainController.cs [Read Only]",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAmAAAA",
+              "ToolTip": "C:\\Users\\Jo\u00E3o Pedro\\AppData\\Local\\Temp\\.vsdbgsrc\\b4ec7b032359dfaef3e3e2222c0603033513d4fb3bed6344502c5d05295c6bd8\\MainController.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Jo\u00E3o Pedro\\AppData\\Local\\Temp\\.vsdbgsrc\\b4ec7b032359dfaef3e3e2222c0603033513d4fb3bed6344502c5d05295c6bd8\\MainController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAD4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T02:36:25.41Z",
-              "EditorCaption": " [Read Only]"
+              "WhenOpened": "2024-06-23T02:36:25.41Z"
             }
           ]
         }
@@ -367,11 +308,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 33,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\User\\User.cs",
               "RelativeDocumentMoniker": "DeMaria\\Views\\User\\User.cs",
@@ -380,97 +321,194 @@
               "ViewState": "AQIAAC8AAAAAAAAAAAAgwCEAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-22T06:53:57.678Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 18,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "DeMaria\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Controllers\\UserController.cs",
               "RelativeToolTip": "DeMaria\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAJsAAAAAAAAAAAAmwLAAAAAPAAAA",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAqwKsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T17:21:18.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T17:21:18.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "UserForm.cs",
               "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\User\\UserForm.cs",
               "RelativeDocumentMoniker": "DeMaria\\Views\\User\\UserForm.cs",
               "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\User\\UserForm.cs",
               "RelativeToolTip": "DeMaria\\Views\\User\\UserForm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAASAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAiwE4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T04:45:23.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T04:45:23.168Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 34,
               "Title": "UserForm.cs [Design]",
               "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\User\\UserForm.cs",
               "RelativeDocumentMoniker": "DeMaria\\Views\\User\\UserForm.cs",
               "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\User\\UserForm.cs [Design]",
               "RelativeToolTip": "DeMaria\\Views\\User\\UserForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T04:03:54.969Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-22T04:03:54.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 35,
               "Title": "User.cs [Design]",
               "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\User\\User.cs",
               "RelativeDocumentMoniker": "DeMaria\\Views\\User\\User.cs",
               "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\User\\User.cs [Design]",
               "RelativeToolTip": "DeMaria\\Views\\User\\User.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T06:53:49.169Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-22T06:53:49.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 13,
               "Title": "UserModel.cs",
               "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\UserModel.cs",
               "RelativeDocumentMoniker": "DeMaria\\Models\\UserModel.cs",
               "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\UserModel.cs",
               "RelativeToolTip": "DeMaria\\Models\\UserModel.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwDQAAAAwAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADQAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T06:11:26.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T06:11:26.81Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 12,
               "Title": "UserEventArgs.cs",
               "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\UserEventArgs.cs",
               "RelativeDocumentMoniker": "DeMaria\\Models\\UserEventArgs.cs",
               "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\UserEventArgs.cs",
               "RelativeToolTip": "DeMaria\\Models\\UserEventArgs.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T22:53:38.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 22,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "DeMaria\\Repositories\\UserRepository.cs",
               "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "DeMaria\\Repositories\\UserRepository.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAkwBwAAAAaAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T04:57:15.719Z",
+              "WhenOpened": "2024-06-22T04:57:15.719Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "67432601-2c8e-4aba-9a25-4fa13caa3414",
+        "Display": 1,
+        "X": 129,
+        "Y": 212,
+        "Width": 1230,
+        "Height": 741,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CustomerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Customer\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "DeMaria\\Views\\Customer\\CustomerForm.cs",
+              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Customer\\CustomerForm.cs [Design]",
+              "RelativeToolTip": "DeMaria\\Views\\Customer\\CustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:20:57.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerForm.cs",
+              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Customer\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "DeMaria\\Views\\Customer\\CustomerForm.cs",
+              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Customer\\CustomerForm.cs",
+              "RelativeToolTip": "DeMaria\\Views\\Customer\\CustomerForm.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAUwEYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:21:03.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerEventArgs.cs",
+              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\CustomerEventArgs.cs",
+              "RelativeDocumentMoniker": "DeMaria\\Models\\CustomerEventArgs.cs",
+              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\CustomerEventArgs.cs",
+              "RelativeToolTip": "DeMaria\\Models\\CustomerEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T23:35:13.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Customer.cs [Design]",
+              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Customer\\Customer.cs",
+              "RelativeDocumentMoniker": "DeMaria\\Views\\Customer\\Customer.cs",
+              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Customer\\Customer.cs [Design]",
+              "RelativeToolTip": "DeMaria\\Views\\Customer\\Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T23:36:51.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "DeMaria\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "DeMaria\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAQwHUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T01:20:52.146Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Customer\\Customer.cs",
+              "RelativeDocumentMoniker": "DeMaria\\Views\\Customer\\Customer.cs",
+              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Customer\\Customer.cs",
+              "RelativeToolTip": "DeMaria\\Views\\Customer\\Customer.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwFcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T23:37:29.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "DeMaria\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "DeMaria\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAmwLEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T23:23:54.37Z"
             }
           ]
         }
@@ -491,100 +529,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductModel.cs",
-              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\ProductModel.cs",
-              "RelativeDocumentMoniker": "DeMaria\\Models\\ProductModel.cs",
-              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\ProductModel.cs",
-              "RelativeToolTip": "DeMaria\\Models\\ProductModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T07:24:05.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CustomerModel.cs",
-              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\CustomerModel.cs",
-              "RelativeDocumentMoniker": "DeMaria\\Models\\CustomerModel.cs",
-              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\CustomerModel.cs",
-              "RelativeToolTip": "DeMaria\\Models\\CustomerModel.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAD4vx8AAAAMAAAA",
+              "Title": "ProductSaleModel.cs",
+              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\ProductSaleModel.cs",
+              "RelativeDocumentMoniker": "DeMaria\\Models\\ProductSaleModel.cs",
+              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\ProductSaleModel.cs",
+              "RelativeToolTip": "DeMaria\\Models\\ProductSaleModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T01:34:44.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T04:50:15.943Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Product\\Product.cs",
-              "RelativeDocumentMoniker": "DeMaria\\Views\\Product\\Product.cs",
-              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Product\\Product.cs",
-              "RelativeToolTip": "DeMaria\\Views\\Product\\Product.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAIAywCEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T06:52:00.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "DeMaria\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "DeMaria\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAH0AAAAAAAAAAAAUwDkAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T06:43:31.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 21,
               "Title": "ProductForm.cs",
               "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Product\\ProductForm.cs",
               "RelativeDocumentMoniker": "DeMaria\\Views\\Product\\ProductForm.cs",
               "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Product\\ProductForm.cs",
               "RelativeToolTip": "DeMaria\\Views\\Product\\ProductForm.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAywA4AAAA0AAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAA0wDUAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T15:50:00.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T15:50:00.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 19,
               "Title": "ProductForm.cs [Design]",
               "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Product\\ProductForm.cs",
               "RelativeDocumentMoniker": "DeMaria\\Views\\Product\\ProductForm.cs",
               "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Product\\ProductForm.cs [Design]",
               "RelativeToolTip": "DeMaria\\Views\\Product\\ProductForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T16:00:14.869Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-22T16:00:14.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 20,
               "Title": "Product.cs [Design]",
               "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Product\\Product.cs",
               "RelativeDocumentMoniker": "DeMaria\\Views\\Product\\Product.cs",
               "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Product\\Product.cs [Design]",
               "RelativeToolTip": "DeMaria\\Views\\Product\\Product.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T06:54:22.063Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-22T06:54:22.063Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "DeMaria\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "DeMaria\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwEUAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:13:45.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerModel.cs",
+              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\CustomerModel.cs",
+              "RelativeDocumentMoniker": "DeMaria\\Models\\CustomerModel.cs",
+              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\CustomerModel.cs",
+              "RelativeToolTip": "DeMaria\\Models\\CustomerModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T01:34:44.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ProductEventArgs.cs",
               "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\ProductEventArgs.cs",
               "RelativeDocumentMoniker": "DeMaria\\Models\\ProductEventArgs.cs",
@@ -592,21 +613,43 @@
               "RelativeToolTip": "DeMaria\\Models\\ProductEventArgs.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T23:55:19.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T23:55:19.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "DeMaria\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "DeMaria\\Repositories\\ProductRepository.cs",
-              "ViewState": "AQIAAHcAAAAAAAAAAAAgwJUAAAAJAAAA",
+              "DocumentIndex": 14,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "DeMaria\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Models\\ProductModel.cs",
+              "RelativeToolTip": "DeMaria\\Models\\ProductModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA2wBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T07:13:45.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T07:24:05.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DeMaria\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DeMaria\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAWwDcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T06:43:31.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Product\\Product.cs",
+              "RelativeDocumentMoniker": "DeMaria\\Views\\Product\\Product.cs",
+              "ToolTip": "C:\\Projetos\\DeMaria\\DeMaria\\DeMaria\\Views\\Product\\Product.cs",
+              "RelativeToolTip": "DeMaria\\Views\\Product\\Product.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwBYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T06:52:00.568Z"
             }
           ]
         }

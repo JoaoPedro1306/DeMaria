@@ -9,6 +9,7 @@ using DeMaria.Views.Customer;
 using DeMaria.Views.Product;
 using System.Windows.Forms;
 using DeMaria.Services;
+using DeMaria.Views.User;
 namespace DeMaria.Controllers
 {
     public class CustomerController
@@ -22,10 +23,10 @@ namespace DeMaria.Controllers
 
         private int UserLoggedID;
         private List<CustomerModel> Customers;
-
+        public CustomerController() { }
         public CustomerController(int userLoggedID)
         {
-            Customer = new Customer(userLoggedID);
+            Customer = new Customer();
             UserLoggedID = userLoggedID;
 
             Customer.IncludeButtonClicked += OnIncludeButtonClicked;
@@ -55,6 +56,23 @@ namespace DeMaria.Controllers
             Customer.SetCustomerData(Customers);
         }
 
+        public CustomerModel GetCustomerByCPF(string cpf)
+        {
+            Repository = new CustomerRepository();
+            Customers = Repository.Select(new CustomerModel(cpf), 2);
+            if (Customers.Count != 0)
+            {
+                return Customers[0];
+            }
+            return null;
+        }
+
+        public bool OpenIncludeCustomer(int userLogged) {
+            UserLoggedID = userLogged;
+            OnIncludeButtonClicked(null, null);
+            return true;
+        }
+
         private void OnCustomerSelected(object sender, CustomerEventArgs e)
         {
             SelectedCustomer = e.Customer;
@@ -78,7 +96,7 @@ namespace DeMaria.Controllers
         {
             if (SelectedCustomer != null)
             {
-                SelectedCustomer = Repository.Select(SelectedCustomer.CST_ID)[0];
+                SelectedCustomer = Repository.Select(new CustomerModel(SelectedCustomer.CST_ID), 1)[0];
                 SelectedCustomer.MODIFIED_BY = UserLoggedID;
                 CustomerForm = new CustomerForm(SelectedCustomer, true);
                 CustomerForm.SaveButtonClicked += OnSaveButtonClicked;
@@ -99,7 +117,7 @@ namespace DeMaria.Controllers
             if (SelectedCustomer != null)
             {
                 //Atualiza o produto antes de exibir na janela de consulta.
-                SelectedCustomer = Repository.Select(SelectedCustomer.CST_ID)[0];
+                SelectedCustomer = Repository.Select(new CustomerModel(SelectedCustomer.CST_ID), 1)[0];
                 CustomerForm = new CustomerForm(SelectedCustomer);
                 CustomerForm.CloseButtonClicked += OnCloseButtonClicked;
                 CustomerForm.Show();
@@ -143,7 +161,11 @@ namespace DeMaria.Controllers
                 MessageBox.Show("Por favor, preencha todos os campos!");
                 return;
             }
-
+            if(e.Customer.CST_CPF.Length != 11)
+            {
+                MessageBox.Show("Por favor, digite um CPF válido!");
+                return;
+            }
             Repository = new CustomerRepository();
             if (e.Customer.CST_ID == 0)
             {

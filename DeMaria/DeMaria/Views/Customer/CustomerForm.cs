@@ -34,6 +34,7 @@ namespace DeMaria.Views.Customer {
         public CustomerForm(int loggedUser) {
             LoggedUser = loggedUser;
             InitializeComponent();
+            InitializeTextBoxEvents();
             txtBoxZipCode.Leave += txtBoxZipCode_Leave;
         }
 
@@ -41,6 +42,7 @@ namespace DeMaria.Views.Customer {
         public CustomerForm(CustomerModel customer, bool edit)
         {
             InitializeComponent();
+            InitializeTextBoxEvents();
             LoggedUser = customer.MODIFIED_BY;
             FillFields(customer);
             
@@ -50,7 +52,6 @@ namespace DeMaria.Views.Customer {
             txtBoxCPF.Enabled = false;
         }
 
-        //Construtor utilizado na consulta do registro
         public CustomerForm(CustomerModel customer)
         {
             InitializeComponent();
@@ -68,6 +69,13 @@ namespace DeMaria.Views.Customer {
             txtBoxZipCode.Enabled = false;
             txtBoxNumber.Enabled = false;
             txtBoxComplement.Enabled = false;
+        }
+        private void InitializeTextBoxEvents()
+        {
+            txtBoxCPF.KeyPress += TextBox_KeyPress_NumericOnly;
+            txtBoxPhone.KeyPress += TextBox_KeyPress_NumericOnly;
+            txtBoxNumber.KeyPress += TextBox_KeyPress_NumericOnly;
+            txtBoxZipCode.KeyPress += TextBox_KeyPress_NumericOnly;
         }
 
         private void txtBoxZipCode_Leave(object sender, EventArgs e)
@@ -93,6 +101,15 @@ namespace DeMaria.Views.Customer {
         {
             CloseButtonClicked?.Invoke(this, EventArgs.Empty);
             this.Close();
+        }
+
+        private void TextBox_KeyPress_NumericOnly(object sender, KeyPressEventArgs e)
+        {
+            // Ignora o carácter digitado se não for número
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
         }
 
         private void FillFields(CustomerModel customer)

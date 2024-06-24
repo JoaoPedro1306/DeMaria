@@ -113,12 +113,14 @@
     <Compile Include="Models\ProductEventArgs.cs" />
     <Compile Include="Models\ProductModel.cs" />
     <Compile Include="Models\ProductSaleModel.cs" />
+    <Compile Include="Models\SaleEventArgs.cs" />
     <Compile Include="Models\SalesModel.cs" />
     <Compile Include="Models\UserModel.cs" />
     <Compile Include="Models\UserEventArgs.cs" />
     <Compile Include="Repositories\CustomerRepository.cs" />
     <Compile Include="Repositories\DatabaseConnection.cs" />
     <Compile Include="Repositories\ProductRepository.cs" />
+    <Compile Include="Repositories\StoreRepository.cs" />
     <Compile Include="Repositories\UserRepository.cs" />
     <Compile Include="Services\ViaCEP.cs" />
     <Compile Include="Services\PasswordHash.cs" />

@@ -30,6 +30,7 @@ namespace DeMaria.Views.Product
             DataGridViewProduct.DataSource = product;
             CustomizeDataGridView();
         }
+
         private void CustomizeDataGridView()
         {
             DataGridViewProduct.Columns["CREATED_BY"].Visible = false;

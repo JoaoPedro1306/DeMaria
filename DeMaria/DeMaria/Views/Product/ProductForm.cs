@@ -26,6 +26,7 @@ namespace DeMaria.Views.Product {
             InitializeComponent();
             LoggedUser = loggedUser;
             txtBoxID.Enabled = false;
+            InitializeEvents();
         }
 
         //Construtor uiilizado na edição do registro.
@@ -63,6 +64,45 @@ namespace DeMaria.Views.Product {
         private void InitializeEvents()
         {
             CloseButton.Click += CloseButton_Click;
+            txtBoxPrice.KeyPress += TextBox_KeyPress_NumericAndDecimal;
+            txtBoxStock.KeyPress += TextBox_KeyPress_NumericOnly;
+        }
+
+        private void TextBox_KeyPress_NumericOnly(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true; // Ignora o caractere digitado se não for número
+            }
+        }
+        private void TextBox_KeyPress_NumericAndDecimal(object sender, KeyPressEventArgs e)
+        {
+            TextBox textBox = (TextBox)sender;
+
+            // Verifica se o caractere digitado não é um dígito nem uma vírgula
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar) && e.KeyChar != ',')
+            {
+                e.Handled = true; // Ignora o caractere digitado se não for número
+            }
+
+            // Verifica se já há uma vírgula digitada
+            if (e.KeyChar == ',' && textBox.Text.Contains(','))
+            {
+                e.Handled = true; // Ignora a vírgula se tiver digitado virgula
+            }
+
+            // Verifica a posição da vírgula e limita os dígitos após ela
+            if (textBox.Text.Contains(','))
+            {
+                // Obtém o índice da vírgula
+                int index = textBox.Text.IndexOf(',');
+
+                // Permite no máximo dois dígitos após a vírgula
+                if (textBox.Text.Substring(index).Length > 2 && !char.IsControl(e.KeyChar))
+                {
+                    e.Handled = true; // Ignora o caractere digitado se houver mais de dois dígitos após a vírgula
+                }
+            }
         }
         private void SaveButton_Click(object sender, EventArgs e)
         {
